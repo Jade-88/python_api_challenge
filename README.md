@@ -1,6 +1,6 @@
 Python-API-Challenge
 
-This script has been used to visualize the weather of over 500 cities with various distances from the equator. The code uses Open Weather Map API to get data to create a series of scatter plots which show the following relationships:
+This script has been used to visualize the weather of over 500 cities, with various distances from the equator. The code uses Open Weather Map API to get data to create a series of scatter plots which show the following relationships:
 
 Latitude vs Temperature
 
